@@ -1,0 +1,5 @@
+The files attached for Task 1 includes:
+1. A python file which executes to plot two graphs as follows : A) A histogram showing the distribution of populations across countries
+                                                                                                      B) A bar plot of the top 10 most populated countries
+2. It contains two Tableau worksheets versions of the python execution one includes the bar chart for top 10 countries by population and the other is a histogram of distribution of population 
+The work is done using the dataset which was provided and has been computed for the year 2022
